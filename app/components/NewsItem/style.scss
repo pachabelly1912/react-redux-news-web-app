@@ -1,0 +1,30 @@
+.news-card {
+  color: #000!important;
+  background-color: #fff!important;
+  box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+  margin: 32px !important;
+  height: fit-content;
+  .title-container {
+    padding: 0.01em 16px;
+  }
+  .opacity {
+    opacity: 0.6;
+  }
+  .content {
+    padding: 0.01em 16px;
+  }
+  h5 {
+    font-weight: 400;
+  }
+  button {
+    color: #000 !important;
+    background-color: #fff !important;
+    border: 1px solid #ccc !important;
+    position: unset;
+    width: 100px;
+    margin: 8px;
+  }
+  b {
+    font-family: "Raleway", sans-serif;
+  }
+}
